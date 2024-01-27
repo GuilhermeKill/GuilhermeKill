@@ -1,20 +1,30 @@
+## Olá, me chamo Guilherme! 
+### Bem vindo ao meu perfil GitHub 👋
+
+Possuo conhecimentos em desenvolvimento back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Tecnologia da informação, e dessa forma, adquirir cada vez mais experiência.
+
 <div align="center">
-<a href="https://github.com/DevBatista1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevBatista1&show_icons=true&theme=dracula&include_all_commits
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBatista1&layout=compact&langs_count=7&theme=dra
+  <a href="https://github.com/GuilhermeKill">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeKill&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeKill&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+### Ferramentas e Tecnologias:
+
 <div style="display: inline_block"><br>
-<img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ja
-<img align="center" alt="Dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/ty
-<img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reac
-<img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
-<img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="center" width="40" height="40"/>
+
+
+
 </div>
-##
+
+### Contatos:
+
 <div>
-<a href="https://www.youtube.com/channel/UC44Y7HUcjOu200dbBYjSjjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?s
-<a href="AQUI VAI O LINK DO INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&log
-<a href = "mailto:devbatistacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo
-<a href="AQUI VAI O LINK DO LINKEDIM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/grkill//"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
 </div>
